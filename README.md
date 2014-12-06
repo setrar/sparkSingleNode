@@ -9,13 +9,15 @@ Running Apache Spark on a Single Hadoop Node
   * binary destination
   - $HOME/bin/local/bigdata
 
-= Install from the source code
+= Installing:
+  *  from the source code
 
   $ git clone https://github.com/setrar/sparkSingleNode.git
   $ ./install.sh
 
-= Install from the Internet 
-curl ihttps://github.com/setrar/sparkSingleNode/install.sh | bash 
+  * from the Internet 
+
+  $ curl https://raw.githubusercontent.com/setrar/sparkSingleNode/master/install.sh | sh 
 
 = Run the distribution
 
