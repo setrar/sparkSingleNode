@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 # Let's make room for this
 BIGD_DIST=$HOME/bin/local/bigdata
 
